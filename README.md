@@ -1,1 +1,1 @@
-# 16-bit-MIPS-Pipeline
+# 16-bit-MIPS-Pipeline in Verilog
